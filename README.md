@@ -26,8 +26,8 @@ Introductory notebooks contributed by each instrument team, including:
 ### **Cross-instrument science workflows (Thu–Fri)**  
 Focused, multi-mission analysis examples exploring:
 
-- Solar flares (multi-wavelength & multi-mission)  
-- Large & small-scale coronal structures  
+- Solar flares + eruptions (coronagraphs) (multi-wavelength & multi-mission)  
+- Small-scale in the solar atmosphere 
 - In-situ heliospheric variability (solar wind & energetic particles)  
 
 ---
