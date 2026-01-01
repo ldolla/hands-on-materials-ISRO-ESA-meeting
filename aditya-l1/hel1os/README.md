@@ -13,17 +13,13 @@ Welcome to the hands-on material for the HEL1OS instrument onboard Aditya-L1. Op
     ```
    
 2.  **Clone the repository:**
-    ```bash
-    !git clone [https://github.com/msudh974/hands-on-materials.git](https://github.com/msudh974/hands-on-materials.git)
-    !cd hands-on-materials/aditya-l1/hel1os
-    ```
     
 3.  **Install requirements:**
     ```bash
     !pip install -r requirements.txt
     ```
 
-4.  **Create a new folder to store the event data:**
+4.  **Create a new folder to store/upload the event data:**
     ```bash
     !mkdir data
     !cd data
