@@ -1,0 +1,20 @@
+name: isro-esa-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - sunpy[all]
+
+  - pip
+  - pip:
+      - astrospice    
+      - sunpy-soar
+      - stixpy
+      - sospice
+      - sunraster==0.7.0
+      - solo-epd-loader
+      - cmcrameri
+      - ipympl
